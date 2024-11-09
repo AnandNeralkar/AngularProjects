@@ -9,4 +9,9 @@ import { Component } from '@angular/core';
 })
 export class MarvellousComponent {
 public BatchName="Python ML"
+
+DemoFun()
+{
+  return "Inside Demo Fun Function"
+}
 }
