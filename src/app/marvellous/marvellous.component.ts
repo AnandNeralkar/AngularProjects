@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Console } from 'console';
 
 @Component({
   selector: 'app-marvellous',
@@ -13,5 +14,11 @@ public BatchName="Python ML"
 DemoFun()
 {
   return "Inside Demo Fun Function"
+}
+
+Display()
+{
+console.log();
+  ("Inside Typescript")
 }
 }
