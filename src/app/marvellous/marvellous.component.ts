@@ -8,6 +8,7 @@ import { Console } from 'console';
   templateUrl: './marvellous.component.html',
   styleUrl: './marvellous.component.css'
 })
+
 export class MarvellousComponent {
 public BatchName="Python ML"
 
